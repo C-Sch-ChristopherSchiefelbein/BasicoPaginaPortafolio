@@ -1,0 +1,37 @@
+body {
+    font-family: 'Times New Roman', serif;
+    background-color: #f5f5f5;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: #222;
+    padding: 10px;
+}
+
+h1 {
+    color: #a88c6d;
+}
+
+button {
+    background-color: #555;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #333;
+}
+
+a {
+    color: #a88c6d;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
